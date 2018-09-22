@@ -1,7 +1,7 @@
 theme = "blackburn"
-baseURL = "https://gsaclan.github.io/"
+baseURL = "https://asgtest.github.io/"
 languageCode = "en-us"
-title = "GSA CLAN"
+#title = "GSA CLAN"
 copyright = "© 2018 GSA CLAN"
 
 [menu]
@@ -32,5 +32,5 @@ copyright = "© 2018 GSA CLAN"
 
 [social]
   facebook = "GreekSocialAlliance"
-  youtube = "*"
-  steam = "*"
+  youtube = "UCjcEQhDTY52-fOL0eiUhXHg"
+  steam = "GSAGR"
